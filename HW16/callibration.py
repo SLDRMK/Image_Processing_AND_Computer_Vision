@@ -29,7 +29,7 @@ for fname in images:
     # cv2.imshow('img', img)
     # cv2.waitKey(0)
 
-cv2.destroyAllWindows()
+# cv2.destroyAllWindows()
 
 h,w = img.shape[:2]
 
